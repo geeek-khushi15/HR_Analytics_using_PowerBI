@@ -1,1 +1,1 @@
-# HR_Analytics_using_PowerBI
+The goal of this project is to pinpoint the main factors contributing to employee attrition and offer actionable strategies for enhancing workforce retention within an organization. This dashboard delivers insights into employee attrition, aiding the HR team in their analysis.In the course of this project, I have had the opportunity to:Thoroughly analyze HR data to reveal crucial insights.Create interactive dashboards to display key HR metrics.Offer data-driven recommendations to support strategic decisions.
